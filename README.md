@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou o Bernardo Christ 👋🏼
 
+Sou residente de Desenvolvimento FullStack no Serratec em Petrópolis/RJ. Aprendi Java ao utiliza-lo nas disciplinas de Backend, como POO e API Restful. Já na parte de Front aprendi HTML e CSS, em seguida aprendendo React e ReactNative nas disciplinas Desenvolvimento Web e Desenvolvimento Mobile.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-christ-estrella-3084a8186/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bd_christ/)
 
@@ -27,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoChrist&show_icons=true" />
 </picture><br/>
 
-Sou residente de Desenvolvimento FullStack no Serratec em Petrópolis/RJ. Aprendi Java ao utiliza-lo nas disciplinas de Backend, como POO e API Restful. Já na parte de Front aprendi HTML e CSS, em seguida aprendendo React e ReactNative nas disciplinas Desenvolvimento Web e Desenvolvimento Mobile.
+
 
 
 
